@@ -2,7 +2,7 @@
 
 Meu nome é Sarah Mazzinghy
 
--Estou estudando na Alura
+-Estou estudando na [Alura] (https://www.alura.com.br)
 
 -Estou me desenvolvendo na linguagem JavaScript
 
@@ -11,3 +11,9 @@ Meu nome é Sarah Mazzinghy
 ### Você entrar em contrato comigo 📧
 
 00001101851892sp@al.educacao.sp.gov.br
+
+
+![image](https://github.com/SarahMazzinghy/Sarah-Mazzinghy/assets/171290176/31ae2189-d883-435e-a4e2-64d6c7767980)
+
+
+
