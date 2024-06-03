@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil
 
-Meu nome é Sarah Mazzinghy
+ Meu nome é Sarah Mazzinghy
 
 -Estou estudando na [Alura] (https://www.alura.com.br)
 
